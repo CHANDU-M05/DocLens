@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+.crawl_cache.db
+venv/
+env/
+output-*.json
+*_structure.json
+*_content.json
+extracted_modules.json
